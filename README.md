@@ -37,7 +37,7 @@
 
 [LabWiev Dosyalarına Erişim Linki](https://drive.google.com/drive/folders/1sfm7uOUn1OdS-ZRUzJ6rGv0hdDpRFc0G?usp=sharing)
 
-![image](https://user-images.githubusercontent.com/97916376/172055786-b04ab085-895a-4f64-8249-795f5a4a7685.png)
+![image](https://user-images.githubusercontent.com/97916376/172055864-cd3396aa-2df2-4240-b9f8-df630726178b.png)
 
 ```
 #include <WiFi.h>
