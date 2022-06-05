@@ -32,7 +32,7 @@
 
 ![image](https://user-images.githubusercontent.com/97916376/172053277-f3236227-793b-4d09-a5b8-eeb6e7265c94.png)
 
-'#include <WiFi.h>
+'''#include <WiFi.h>
 #include <WiFiClient.h>
 #include "ThingSpeak.h"
 #define pin 34
@@ -93,7 +93,7 @@ void loop() {
       Serial.println(writedata);
       sonyazma = millis();
     }
-}'
+}'''
 
 
 
