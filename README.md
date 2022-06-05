@@ -7,9 +7,8 @@
 kullandığımız bataryalı veya pilli elektronik aksamların ne kadar süre çalışmaya devam
 edebileceğini ön görmektir. Elimizden bırakmadığımız telefonlardan askeri donanımlara
 kadar enerji bizim için çok büyük bir anlam ifade eder. Bu enerjiyi kontrol edebilmek,
-saklayabilmek ve ölçebilmek bizlerin hayatını pek çok yönden kolaylaştırmaktadır. Bizim bu
-projeyi yapmamızdaki amaç, hayatımızın farkında olmadan bu denli temelinde yer alan
-devreyi basit bir şekilde olsa dahi anlamaktır. Bu raporda yaptığımız basit bir batarya ölçer
+saklayabilmek ve ölçebilmek bizlerin hayatını pek çok yönden kolaylaştırmaktadır.
+Bu raporda yaptığımız basit bir batarya ölçer
 devrenin temelinde yatan mantığı anlatacağız ve bu devreyi aşamalı bir şekilde
 gerçekleştireceğiz.**
 
