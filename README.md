@@ -14,8 +14,7 @@
 
 ### Kaynaktan Verilen Max Gerilim
 
-![image](https://user-images.githubusercontent.com/97916376/172052722-1d6a042b-313e-4c66-b5e2-741c6271b2dd.png)
-
+![image](https://user-images.githubusercontent.com/97916376/172052976-a700a809-fea3-491b-8a50-a0ec030f47e5.png)
 ### Gerilim Bölücüden Alınan Max Gerilim**
 
 ![image](https://user-images.githubusercontent.com/97916376/172052739-c43daf16-c0a9-49af-b612-5d753c36f7dc.png)
