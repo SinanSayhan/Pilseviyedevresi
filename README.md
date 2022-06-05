@@ -8,9 +8,9 @@
 ### Hazırlayan : Sinan Sayhan  / 171519011
 
 ### Kullanılan Malzemeler
-- Esp32 1
-- 3.2K Direnç 2
-- 1k Direnç 3
+- Esp32 
+- 3.2K Direnç 
+- 1k Direnç 
 
 ### Devrenin tasarımı
 **Esp üzerinden gerilim bölücü yardımıyla analog veriyi 16 dan  
