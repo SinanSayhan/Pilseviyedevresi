@@ -18,8 +18,8 @@ gerçekleştireceğiz.**
 - 1k Direnç 
 
 ### Devrenin tasarımı
-**Esp üzerinden gerilim bölücü yardımıyla analog veriyi 16 dan  
-3.3V’a indirgeyerek Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yazdırılmıştır.**
+**Esp üzerinden gerilim bölücü yardımıyla analog veriyi 16 dan 3.3V’a indirgeyerek(Esp analog pinleri 3.3 kadar desteklediğinden ) 
+Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yazdırılmıştır.**
 
 
 
