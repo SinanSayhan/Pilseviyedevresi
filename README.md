@@ -31,8 +31,8 @@
 ![image](https://user-images.githubusercontent.com/97916376/172053262-423d4c72-ec02-4b7d-afb4-8cf3057be824.png)
 
 ![image](https://user-images.githubusercontent.com/97916376/172053277-f3236227-793b-4d09-a5b8-eeb6e7265c94.png)
-
-'''#include <WiFi.h>
+```
+#include <WiFi.h>
 #include <WiFiClient.h>
 #include "ThingSpeak.h"
 #define pin 34
@@ -93,7 +93,131 @@ void loop() {
       Serial.println(writedata);
       sonyazma = millis();
     }
-}'''
+}#include <WiFi.h>
+#include <WiFiClient.h>
+#include "ThingSpeak.h"
+#define pin 34
+char id[] = "AndroidAP1019";
+char sifre[] = "uwdf9112";
+WiFiClient  client;
+unsigned long myChannelNumber = 1;
+const char * myWriteAPIKey = "6HTKLFBWOH7XSA1V";
+unsigned long sonyazma = 0;
+unsigned long gecikme = 30000;
+
+float g =0 , gy,gyv ;  // Değişkenler tanımlandı
+
+float writedata;
+
+void setup() {
+  Serial.begin(115200);  //Initialize serial
+  WiFi.mode(WIFI_STA);   
+  ThingSpeak.begin(client);  // Initialize ThingSpeak
+ 
+
+}
+
+void loop() {
+  g=analogRead(pin);  // Analogdan okunan veri, g değişkenine atandı
+  gy=(g/4095)*16;  // g değikenine atanan veri, 14V ile orantılı hale getirildi
+  Serial.println(gy);
+  // Okunan veriler aşağıdaki If komutları içerisinde kıyaslanıp, sağlandığı koşula göre LCD Ekrana bataryanın doluluk oranı yansıtılmıştır
+  if (gy>=12){ 
+    delay(1000);
+    writedata = 100;
+  }
+  else if (10<=gy && gy<12){
+    delay(1000);
+    writedata = 75;
+  }
+  else if (8<=gy && gy<10){
+    delay(1000);
+    writedata = 50;
+  }
+  else if (6<=gy && gy<8){
+    delay(1000);
+    writedata = 25;
+  }
+  else if (gy<6){
+    delay(500);
+    writedata = 0;}
+    if ((millis() - sonyazma) > gecikme) {
+      if(WiFi.status() != WL_CONNECTED){
+        Serial.print("Bağlantı başarılı");
+        while(WiFi.status() != WL_CONNECTED){
+          WiFi.begin(id,sifre); 
+          delay(5000);     
+        } 
+        Serial.println("\nConnected.");
+      }
+      int x = ThingSpeak.writeField(myChannelNumber, 1, writedata, myWriteAPIKey);
+      Serial.println(writedata);
+      sonyazma = millis();
+    }
+}
+#include <WiFi.h>
+#include <WiFiClient.h>
+#include "ThingSpeak.h"
+#define pin 34
+char id[] = "AndroidAP1019";
+char sifre[] = "uwdf9112";
+WiFiClient  client;
+unsigned long myChannelNumber = 1;
+const char * myWriteAPIKey = "6HTKLFBWOH7XSA1V";
+unsigned long sonyazma = 0;
+unsigned long gecikme = 30000;
+
+float g =0 , gy,gyv ;  // Değişkenler tanımlandı
+
+float writedata;
+
+void setup() {
+  Serial.begin(115200);  //Initialize serial
+  WiFi.mode(WIFI_STA);   
+  ThingSpeak.begin(client);  // Initialize ThingSpeak
+ 
+
+}
+
+void loop() {
+  g=analogRead(pin);  // Analogdan okunan veri, g değişkenine atandı
+  gy=(g/4095)*16;  // g değikenine atanan veri, 14V ile orantılı hale getirildi
+  Serial.println(gy);
+  // Okunan veriler aşağıdaki If komutları içerisinde kıyaslanıp, sağlandığı koşula göre LCD Ekrana bataryanın doluluk oranı yansıtılmıştır
+  if (gy>=12){ 
+    delay(1000);
+    writedata = 100;
+  }
+  else if (10<=gy && gy<12){
+    delay(1000);
+    writedata = 75;
+  }
+  else if (8<=gy && gy<10){
+    delay(1000);
+    writedata = 50;
+  }
+  else if (6<=gy && gy<8){
+    delay(1000);
+    writedata = 25;
+  }
+  else if (gy<6){
+    delay(500);
+    writedata = 0;}
+    if ((millis() - sonyazma) > gecikme) {
+      if(WiFi.status() != WL_CONNECTED){
+        Serial.print("Bağlantı başarılı");
+        while(WiFi.status() != WL_CONNECTED){
+          WiFi.begin(id,sifre); 
+          delay(5000);     
+        } 
+        Serial.println("\nConnected.");
+      }
+      int x = ThingSpeak.writeField(myChannelNumber, 1, writedata, myWriteAPIKey);
+      Serial.println(writedata);
+      sonyazma = millis();
+    }
+}
+```
 
 
 
