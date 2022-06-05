@@ -1,6 +1,11 @@
 # Pilseviyedevresi
 
-![image](https://user-images.githubusercontent.com/97916376/172054526-3d8ec3c7-ed6f-435e-a4c8-a616b111ab16.png)
+# MARMARA ÜNİVERSİTESİ
+# TEKNOLOJİ FAKULTESİ
+# Elektrik Elektronik Mühendisliği 
+## Ölçme ve Enstrümantasyon DERSİ
+## LabVIEW Proje (Batarya Ölçme Devresi)
+## Hazırlayan : Sinan Sayhan  / 171519011
 
 ### Kullanılan Malzemeler
 - Esp32 1
