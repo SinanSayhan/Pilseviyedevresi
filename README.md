@@ -48,6 +48,11 @@ Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yaz
 [LABWİEV DOSYALARINA ERİŞİM LİNKİ ](https://drive.google.com/drive/folders/1sfm7uOUn1OdS-ZRUzJ6rGv0hdDpRFc0G?usp=sharing)
 
 ![image](https://user-images.githubusercontent.com/97916376/172055892-0eabfce6-d961-4e03-a9df-70bb3145edf0.png)
+
+### Esp üzerinden pil seviyisini öçlmek için kullanılan kod 
+![image](https://user-images.githubusercontent.com/97916376/172056278-33619db5-616d-4646-8fd5-861afe953a44.png)
+
+
 ```
 #include <WiFi.h>
 #include <WiFiClient.h>
