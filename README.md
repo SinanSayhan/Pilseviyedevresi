@@ -10,9 +10,9 @@
 ### Devrenin tasarımı
 **Esp üzerinden gerilim bölücü yardımıyla analog veriyi 16 dan  
 3.3V’a indirgeyerek Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yazdırılmıştır.**
-
-
 ![image](https://user-images.githubusercontent.com/97916376/172055588-94076e20-0832-4665-8fd5-340541d68ee4.png)
+
+
 [LabWiev Dosyalarına Erişim Linki](https://drive.google.com/drive/folders/1sfm7uOUn1OdS-ZRUzJ6rGv0hdDpRFc0G?usp=sharing)
 
 
