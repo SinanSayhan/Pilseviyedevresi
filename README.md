@@ -17,7 +17,10 @@
 ![image](https://user-images.githubusercontent.com/97916376/172052976-a700a809-fea3-491b-8a50-a0ec030f47e5.png)
 ### Gerilim Bölücüden Alınan Max Gerilim**
 
-![image](https://user-images.githubusercontent.com/97916376/172052739-c43daf16-c0a9-49af-b612-5d753c36f7dc.png)
+![image](https://user-images.githubusercontent.com/97916376/172052996-86795c43-b0b6-4056-8a7b-a9bf7717f2e0.png)
+
+### Verilen Gerilim ile oluşan Kontol Panelinin Davranışları
+![image](https://user-images.githubusercontent.com/97916376/172053181-1fc2d980-88a4-433c-b684-3a54463e0d14.png)
 
 
 
