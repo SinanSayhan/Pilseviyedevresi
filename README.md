@@ -30,7 +30,7 @@ Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yaz
 
 ![image](https://user-images.githubusercontent.com/97916376/172052976-a700a809-fea3-491b-8a50-a0ec030f47e5.png)
 
-### Gerilim Bölücüden Alınan Max Gerilim**
+### Gerilim Bölücüden Alınan Max Gerilim
 
 ![image](https://user-images.githubusercontent.com/97916376/172052996-86795c43-b0b6-4056-8a7b-a9bf7717f2e0.png)
 
