@@ -1,5 +1,8 @@
 # Pilseviyedevresi
-
+#### Kullanılan Malzemeler
+- Esp32 1
+- 3.2K Direnç 2
+- 1k Direnç 3
 ### Kullanılan Malzemeler
 **-Esp 32**/n
 **3.2K Direnç**/n
