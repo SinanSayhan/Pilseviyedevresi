@@ -12,6 +12,7 @@
 3.3V’a indirgeyerek Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yazdırılmıştır.**
 
 [LabWiev Dosyalarına Erişim Linki](https://drive.google.com/drive/folders/1sfm7uOUn1OdS-ZRUzJ6rGv0hdDpRFc0G?usp=sharing)
+
 ![image](https://user-images.githubusercontent.com/97916376/172055786-b04ab085-895a-4f64-8249-795f5a4a7685.png)
 
 
