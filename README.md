@@ -1,11 +1,7 @@
 # Pilseviyedevresi
 
-## MARMARA ÜNİVERSİTESİ
-## TEKNOLOJİ FAKULTESİ
-## Elektrik Elektronik Mühendisliği 
-### Ölçme ve Enstrümantasyon DERSİ
-### LabVIEW Proje (Batarya Ölçme Devresi)
-### Hazırlayan : Sinan Sayhan  / 171519011
+## MARMARA ÜNİVERSİTESİ TEKNOLOJİ FAKULTESİ Elektrik Elektronik Mühendisliği 
+### Ölçme ve Enstrümantasyon DERSİ LabVIEW Proje (Batarya Ölçme Devresi) Hazırlayan : Sinan Sayhan  / 171519011
 
 ### Kullanılan Malzemeler
 - Esp32 
