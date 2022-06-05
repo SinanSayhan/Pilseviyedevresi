@@ -1,4 +1,7 @@
 # Pilseviyedevresi
+
+![image](https://user-images.githubusercontent.com/97916376/172054526-3d8ec3c7-ed6f-435e-a4c8-a616b111ab16.png)
+
 ### Kullanılan Malzemeler
 - Esp32 1
 - 3.2K Direnç 2
