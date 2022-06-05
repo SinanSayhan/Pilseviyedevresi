@@ -50,7 +50,7 @@ Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yaz
 ![image](https://user-images.githubusercontent.com/97916376/172055892-0eabfce6-d961-4e03-a9df-70bb3145edf0.png)
 
 ### Esp üzerinden pil seviyisini öçlmek için kullanılan kod 
-![image](https://user-images.githubusercontent.com/97916376/172056278-33619db5-616d-4646-8fd5-861afe953a44.png)
+![image](https://user-images.githubusercontent.com/97916376/172056319-cb467521-856e-4d7d-ad80-d14042483eeb.png)
 
 
 ```
