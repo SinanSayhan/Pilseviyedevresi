@@ -1,11 +1,10 @@
 # Pilseviyedevresi
 
 ### Kullanılan Malzemeler
-**-Esp 32**
-**3.2K Direnç**
-**1k Direnç**
+**-Esp 32**/n
+**3.2K Direnç**/n
+**1k Direnç**/n
 
 ### Devrenin tasarımı
-**Esp üzerinden gerilim bölücü yardımıyla analog veriyi 16 dan**  
-**3.3V’a indirgeyerek Esp içerisinde Tablo-1 deki karakteristiği **
-**baz alınarak If komutu LabWiev yazdırılmıştır.**
+**Esp üzerinden gerilim bölücü yardımıyla analog veriyi 16 dan  
+3.3V’a indirgeyerek Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yazdırılmıştır.**
