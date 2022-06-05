@@ -44,6 +44,8 @@ Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yaz
 
 ![image](https://user-images.githubusercontent.com/97916376/172053277-f3236227-793b-4d09-a5b8-eeb6e7265c94.png)
 
+### LabWiev Blok Diyagramı
+
 ![image](https://user-images.githubusercontent.com/97916376/172056625-e9d47a0e-46b6-4603-b5a5-52cd7c3aa52d.png)
 
 
