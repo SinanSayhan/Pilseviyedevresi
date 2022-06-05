@@ -31,6 +31,9 @@
 ![image](https://user-images.githubusercontent.com/97916376/172053262-423d4c72-ec02-4b7d-afb4-8cf3057be824.png)
 
 ![image](https://user-images.githubusercontent.com/97916376/172053277-f3236227-793b-4d09-a5b8-eeb6e7265c94.png)
+
+[LabWiev Dosyalarına Erişim Linki](https://drive.google.com/drive/folders/1sfm7uOUn1OdS-ZRUzJ6rGv0hdDpRFc0G?usp=sharing)
+
 ```
 #include <WiFi.h>
 #include <WiFiClient.h>
