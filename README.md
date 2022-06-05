@@ -17,7 +17,7 @@ gerçekleştireceğiz.**
 - 3.2K Direnç 
 - 1k Direnç 
 
-### Devrenin tasarımı
+### Devrenin Tasarımı
 **Esp üzerinden gerilim bölücü yardımıyla analog veriyi 16 dan 3.3V’a indirgeyerek(Esp analog pinleri 3.3 kadar desteklediğinden ) 
 Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yazdırılmıştır.**
 
@@ -29,6 +29,7 @@ Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yaz
 ### Kaynaktan Verilen Max Gerilim
 
 ![image](https://user-images.githubusercontent.com/97916376/172052976-a700a809-fea3-491b-8a50-a0ec030f47e5.png)
+
 ### Gerilim Bölücüden Alınan Max Gerilim**
 
 ![image](https://user-images.githubusercontent.com/97916376/172052996-86795c43-b0b6-4056-8a7b-a9bf7717f2e0.png)
@@ -50,6 +51,7 @@ Esp içerisinde Tablo-1 deki karakteristiği baz alınarak If komutu LabWiev yaz
 ![image](https://user-images.githubusercontent.com/97916376/172055892-0eabfce6-d961-4e03-a9df-70bb3145edf0.png)
 
 ### Esp üzerinden pil seviyisini ölçmek için kullanılan kod 
+
 ![image](https://user-images.githubusercontent.com/97916376/172056319-cb467521-856e-4d7d-ad80-d14042483eeb.png)
 
 
