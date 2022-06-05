@@ -35,7 +35,7 @@
 
 
 
-[LabWiev Dosyalarına Erişim Linki](https://drive.google.com/drive/folders/1sfm7uOUn1OdS-ZRUzJ6rGv0hdDpRFc0G?usp=sharing)
+[LABWİEV DOSYALARINA ERİŞİM LİNKİ ](https://drive.google.com/drive/folders/1sfm7uOUn1OdS-ZRUzJ6rGv0hdDpRFc0G?usp=sharing)
 
 ![image](https://user-images.githubusercontent.com/97916376/172055892-0eabfce6-d961-4e03-a9df-70bb3145edf0.png)
 ```
